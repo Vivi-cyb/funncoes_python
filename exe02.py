@@ -5,7 +5,7 @@ result2 =somar (5,3)
 
 print(result)
 print(result2)
-
-prinnt(somar(10.8))
+print(somar(10,8))
+            
         
         
