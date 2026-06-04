@@ -5,4 +5,5 @@ def maior_numero(a, b):
         print(f"O número {b} é o maior")
 
 # EXEMPLO:
-maior_numero(2, 7)
+if __name__ == "__main__":
+ maior_numero(2, 7)

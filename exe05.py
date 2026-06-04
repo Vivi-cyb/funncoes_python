@@ -17,8 +17,8 @@ def calculadora(a, b, operacao):
     else:
         return "Operação inválida"
 
-
-print(calculadora(4, 2, "+"))
+if __name__ == "__main__":
+ print(calculadora(4, 2, "+"))
 print(calculadora(4, 2, "-"))
 print(calculadora(4, 2, "*"))
 print(calculadora(4, 2, "/"))

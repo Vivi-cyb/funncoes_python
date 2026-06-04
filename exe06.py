@@ -5,4 +5,5 @@ def conta_vogais(frase):
         if char in vogais:
             contador += 1
     return contador
-print(conta_vogais("Viviane"))
+if __name__ == "__main__":
+ print(conta_vogais("Viviane"))
